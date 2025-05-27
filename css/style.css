@@ -1,17 +1,17 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap");
 :root {
-  --color-primary: #059DFF;
-  --color-primary-rgba: rgb(5, 157, 255);
+  --color-primary: #00b3a4;
+  --color-primary-rgba: #00b3a4;
   --color-primary-rgba-2: rgba(5, 157, 255,0.15);
-  --color-primary-alt: #059DFF;
-  --color-primary-light: #059DFF;
-  --color-primary-lightest: #059DFF;
+  --color-primary-alt: #00b3a4;
+  --color-primary-light: #00b3a4;
+  --color-primary-lightest: #00b3a4;
   --color-secondary: #00dac5;
   --color-tertiary: #002420;
   --color-tertiary-alt: #00201d;
   --color-pink: #00c0ad;
-  --color-light-green: #36C6F0;
+  --color-light-green: #00b3a4;
   --color-primary-darker: #011827;
   --color-tertiary-darker: #16400b;
   --color-secondary-darker: #009c8a;
@@ -40,7 +40,7 @@
   --color-warning: #FF8F3C;
   --color-info: #002420;
   --color-facebook: #3B5997;
-  --color-twitter: #1BA1F2;
+  --color-twitter: rgb(255, 255, 255);
   --color-youtube: #ED4141;
   --color-linkedin: #0077B5;
   --color-pinterest: #E60022;
